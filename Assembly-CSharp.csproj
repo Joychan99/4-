@@ -63,10 +63,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GridMover.cs" />
-    <Compile Include="Assets\Ghost.cs" />
-    <Compile Include="Assets\GameManager.cs" />
-    <Compile Include="Assets\Pacman.cs" />
+    <Compile Include="Assets\Codes\Pacman.cs" />
+    <Compile Include="Assets\Codes\Ghost.cs" />
+    <Compile Include="Assets\Codes\GameManager.cs" />
+    <Compile Include="Assets\Codes\GridMover.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
