@@ -1,0 +1,21 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Unity meta files (선택사항 - 보통은 추적함)
+# *.meta
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+
+# OS generated
+.DS_Store
+Thumbs.db
